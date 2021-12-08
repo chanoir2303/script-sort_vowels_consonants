@@ -1,4 +1,4 @@
-# sort_vowels_consonant
+# sort_vowels_consonants
 
 ## How to run it
 - Run `python3 main.py` into the root directory of this project
